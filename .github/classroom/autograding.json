@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Run Example App unit tests",
+      "setup": "",
+      "run": "gradle :app:test --info",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 0
+    }
+  ]
+}
